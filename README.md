@@ -1,12 +1,12 @@
 # FBLA_LostAndFound
-FBLA project | Lost and found
+FBLA Project | Lost and Found
 
-Please do not copy/redistribute our code.
+Please do not copy or redistribute our code.
 
-This project is owned and created by and they did -
+This project is owned and created by the following team members:
 
-Ethan Curtis - Admin login page, Admin Signup page, Admin Dashboard, Terms of Service page.
+Ethan Curtis – Admin Login Page, Admin Signup Page, Admin Dashboard, Terms of Service Page
 
-Amer Salih - Homepage, Search page, Header and Footer on all pages, alot of the backend.
+Amer Salih – Homepage, Search Page, Header and Footer on all pages, and a large portion of the backend
 
-Christopher Reed JR - Everything else
+Christopher Reed Jr. – Everything else
