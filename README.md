@@ -9,4 +9,4 @@ Ethan Curtis – Admin Login Page, Admin Signup Page, Admin Dashboard, Terms of 
 
 Amer Salih – Homepage, Search Page, Header and Footer on all pages, and a large portion of the backend
 
-Christopher Reed Jr. – Everything else
+Christopher Logan Reed – Report Page, Claim Page, Some JS, 
